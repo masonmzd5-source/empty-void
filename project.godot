@@ -1,0 +1,7 @@
+[editor_settings]
+resizeable=false
+
+[project]
+version=4.0
+name="Empty Void"
+running_config={}
